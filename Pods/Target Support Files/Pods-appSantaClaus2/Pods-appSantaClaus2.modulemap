@@ -1,0 +1,6 @@
+framework module Pods_appSantaClaus2 {
+  umbrella header "Pods-appSantaClaus2-umbrella.h"
+
+  export *
+  module * { export * }
+}
